@@ -1,3 +1,17 @@
 # yourCohort
-Add what season and year of your cohort
-Add your name and classmates names
+Fall 2026
+Chad
+Amy 
+Ben
+Bridger
+Daniel
+Eliana
+Hamlet
+Jancarlo
+Jaron
+Jeffrey
+Kevin
+Luis
+Max
+Nathan
+Parker
